@@ -1,0 +1,17 @@
+{
+  "product": "homework_f_e01",
+  "version": "0.1.0",
+  "license": "License Commercial",
+  "description": {
+    "en": "",
+    "cs": ""
+  },
+  "devkit": {
+    "development": {
+      "appBoxLocationUri": "----- VALUE REQUIRED -----",
+      "appDeploymentUri": null
+    }
+  },
+  "homework_f_e01-hi": {},
+  "homework_f_e01-server": {}
+}
